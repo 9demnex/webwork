@@ -1,6 +1,6 @@
 # Webwork Path
 
-Hello! I’m a graphic designer turned web developer living the in Tampa Bay, Florida (Go Bucs!). I’ve been dabbling in code on and off for years, but lately I’ve caught a serious case of the web-dev bug. This is my little corner of the internet where I experiment with new front-end frameworks, play with cutting-edge CSS tricks, and even dip my toes into backend waters from time to time.
+I'm a graphic designer transitioning into web development, based in Tampa Bay, Florida. After years of working with code on and off, I've recently started focusing more seriously on web technologies. This space is where I document my experiments with front-end frameworks, modern CSS, and occasional backend projects.
 
 ---
 
